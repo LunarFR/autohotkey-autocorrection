@@ -1,0 +1,7 @@
+To make the file execute on startup you will need to put the folder in this location.
+
+
+C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Change C: to your main drive where you have users
+

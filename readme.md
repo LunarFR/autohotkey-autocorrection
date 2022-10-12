@@ -14,7 +14,7 @@ To make the file execute on startup you will need to put the folder in this loca
 
 3. After that make a shortcut to the path of autocorrection.ahk you only need to run this.
 
-4. Put the shortcut in this folder under here :. `C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+4. Put the shortcut in this folder under here : `C:\Users\YOURUSERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
 5. Change C: to your main drive where window is installed
 
